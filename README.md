@@ -1,4 +1,5 @@
 # clinic-database-using-sqlite-and-tkinter
+## python , sqlite , tkinter
 
 Hello, this project is a clinic database system that I wrote using the sqlite library in Python. I wrote this project for a database course in university, so it has a very simple graphical interface.
 There are also various sql commands in this project to extract data from the database.

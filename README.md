@@ -7,3 +7,5 @@ To use this project, it is necessary to fill your database with the required inf
 In addition, the tkinter library is used for the graphic interface.
 To view the tables related to the database, use the DB browser for sqlite software. Finally, I would like to point out that the buttons of this software are written in Farsi language, and if needed, you can translate and replace them in the language you need.
 good luck
+
+** To run the program, run the line file

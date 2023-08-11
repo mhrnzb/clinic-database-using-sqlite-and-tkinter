@@ -1,3 +1,5 @@
+#این فایل اصلی برنامه می باشد و برای اجرا شدن برنامه باید این کد را اجرا کنید
+
 import tkinter as tk
 from tkinter import *
 import sqlite3
